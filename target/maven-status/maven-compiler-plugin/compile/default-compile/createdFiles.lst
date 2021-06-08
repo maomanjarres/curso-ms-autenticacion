@@ -1,0 +1,7 @@
+com/aforo255/mssecurity/dao/UsuarioDao.class
+com/aforo255/mssecurity/MsSecurityApplication.class
+com/aforo255/mssecurity/oauth/AuthorizationServerConfig.class
+com/aforo255/mssecurity/model/Usuario.class
+com/aforo255/mssecurity/model/Role.class
+com/aforo255/mssecurity/oauth/SecurityConfig.class
+com/aforo255/mssecurity/service/UsuarioService.class
